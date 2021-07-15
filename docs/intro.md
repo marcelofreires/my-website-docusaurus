@@ -33,3 +33,11 @@ npx docusaurus start
 Your site starts at `http://localhost:3000`.
 
 Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+
+## Custom block
+
+This block has been created after the last instruction on "Start your site" section. Now run this magic command on your terminal:
+
+```shell
+cat /usr/share/calendar/calendar.lotr
+```
